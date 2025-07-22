@@ -1,7 +1,7 @@
 # <div align="center">👋 **Hello, I'm Prajeet Ragav R**</div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E98B2&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E98B2&center=true&vCenter=true&width=600&lines=AI+Engineer;GenAI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me😎
