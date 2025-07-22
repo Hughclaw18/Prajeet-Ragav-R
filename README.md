@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E98B2&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-I am guy who is more passionate about building intelligent, scalable applications that solve real-world problems using cutting-edge LLMs and multi-agent systems. I'm deeply in love with AI research and creating autonomous solutions that make a meaningful impact.
+## 🚀 About Me😎
+Driven by a passion for Artificial Intelligence and Machine Learning, I thrive on crafting intelligent solutions. My toolkit includes strong foundations in Java, OOPS, and Data Structures & Algorithms, complemented by expert-level Python for building powerful ML models and insightful data visualizations. A data-driven decision-maker with a portfolio of practical projects, I'm actively seeking opportunities to innovate and contribute to cutting-edge advancements, always learning and evolving with the tech landscape.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajeet-ragav-499a85208) 
@@ -15,8 +15,6 @@ I am guy who is more passionate about building intelligent, scalable application
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -26,13 +24,6 @@ I am guy who is more passionate about building intelligent, scalable application
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-00A3A3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAyNTkgMjU5IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTU4LjYyIDIuMzQxODRDMjA1LjIyIDEyLjE0MTggMjQyLjkyIDUwLjY0MTggMjUyLjAyIDk4LjE0MTgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNOTkuODIyIDIuMzQxODFDNTMuMzIyMyAxMi42NjE4IDE2LjcyMjMgNTIuMTQxOCA4LjEyMjMxIDk4LjM0MTgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNOC4zMjIyOSAxNjAuNjQyQzE3LjkyMjMgMjA2Ljg0MiA1Ni42MjIzIDI0NS4wNDIgMTAzLjAyIDI1NC42NDIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTU4LjYyIDI1NC42NDJDMjA0LjIyIDI0NC42NDIgMjQyLjcyIDIwNy4yNDIgMjUyLjUyIDE2MC42NDIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTMwLjAyIDcyLjU0MTVMMTMwLjEyIDcyLjQ0MTUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvoin=" />
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### LLMops 
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![Ragas](https://img.shields.io/badge/Ragas-%23F46222.svg?style=for-the-badge)
-![AgentOps](https://img.shields.io/badge/AgentOps-%238A2BE2.svg?style=for-the-badge)
-![Opik](https://img.shields.io/badge/Opik-%23333333.svg?style=for-the-badge)
 
 
 ### Web Development
